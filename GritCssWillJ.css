@@ -1,0 +1,28 @@
+body {
+     background-color: lightblue;
+}
+body p {
+	font-family: Tahoma;
+}
+body p {
+	font-size: 12px;
+}
+#GriTForm b {
+	font-family: Tahoma, Geneva, sans-serif;
+}
+#GriTForm b {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+#GriTForm b {
+	font-size: 12px;
+}
+#GriTForm b {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+#GriTForm b {
+	font-size: 12px;
+}
+#GriTForm .calc {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
